@@ -22,3 +22,9 @@ Softwares
 #Prerequisites
 *Any Basic Programming Course
 *Data Structures
+
+# Sylabus Plan
+
+|Date  |Agenda  |Deliverable
+|-----|-------|----------
+|30 Mar 2016:|Scalability: |Read Related Notes
