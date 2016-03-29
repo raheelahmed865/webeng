@@ -2,7 +2,7 @@
 
 * Improvements from previous class
 1. More focus on projects and MySQL
-2. MongoDB based Linux VM Use to extend course towards NoSQL Databases
+2. MongoDB based Linux VM Use to extend course towards NoSQL Databases [VM Tutorial](http://www.cs.tufts.edu/comp/20/vm/)
 
 ## Theory
 
