@@ -18,7 +18,6 @@ Languages to work on
 Softwares
 * XAMPP
 
-
 #Prerequisites
 *Any Basic Programming Course
 *Data Structures
@@ -27,4 +26,6 @@ Softwares
 
 |Date  |Agenda  |Deliverable
 |-----|-------|----------
-|30 Mar 2016:|Scalability: |Read Related Notes
+|30 Mar 2016|Scalability |Read Related Notes : facebook,twitter,Ebay,Instagram
+|4 April 2016 | Topics Presentations | Persentations in Lab 1 (10 min Max Each Group)
+|18 April 2016| Peojects Demo|Code and Final Demo
