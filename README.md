@@ -8,11 +8,7 @@ Muhammad Bilal Shaikh
 
 [Facebook Study Group] (http://www.fb.com/webmobiledevelopers)
 
-#Prerequisites
-*Any Basic Programming Course
-*Data Structures
-
-Languages
+Languages to work on
 * HTML
 * CSS
 * JavaScript
@@ -21,3 +17,8 @@ Languages
 
 Softwares
 * XAMPP
+
+
+#Prerequisites
+*Any Basic Programming Course
+*Data Structures
