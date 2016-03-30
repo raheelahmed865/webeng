@@ -28,4 +28,4 @@ Softwares
 |-----|-------|----------
 |30 Mar 2016|Scalability |Read Related Notes : facebook,twitter,Ebay,Instagram
 |4 April 2016 | Topics Presentations | Persentations in Lab 1 (10 min Max Each Group)
-|18 April 2016| Peojects Demo|Code and Final Demo
+|18 April 2016| Projects Demo|Code and Final Demo
