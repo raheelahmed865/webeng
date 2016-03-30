@@ -6,7 +6,7 @@ Web applications are complex systems that deliver a plethora of features to a la
 #Instructor
 Muhammad Bilal Shaikh
 
-[Facebook Study Group] (http://www.fb.com/webmobiledevelopers)
+[Facebook Study Group] (http://www.fb.com/groups/webmobiledevelopers)
 
 Languages to work on
 * HTML
